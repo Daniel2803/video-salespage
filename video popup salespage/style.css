@@ -1,0 +1,21 @@
+body{font-family: 'Roboto', sans-serif;}
+h1{font-size: 55px;width: 50%;text-align: center;margin-left: 410px;margin-top: 0;}
+h3{font-size: 24px;}
+footer{font-family: 'Roboto', sans-serif;width:50%;text-align: center;margin-left: 450px;color: #a6a6a6;font-weight:lighter;;}
+a {color:#66e0ff;}
+.warn{color: red; text-decoration: underline;}
+.diabetes{color: red;}
+
+.video{margin-left: 380px;border-width: 5px;border-color:red;}
+.middle-p{text-align: center;font-weight: bold;font-size:14px;}
+.bottom{width: 650px;text-align: center;margin:70px 0 300px 530px;  border-style: solid;
+  border-width: 1px;border-radius: 6px;height:150px;border-color: #a6a6a6}
+  .bottom-p{width:90%;padding-left: 30px;font-size: 18px;}
+
+.footer-p1{position: absolute;top:1350px;left:600px;}
+.footer-p2{position: absolute;top:1350px;left: 680px;}
+.footer-p3{position: absolute;top:1350px;left:870px;}
+.footer-p4{position: absolute;top:1350px;left:980px;}
+.footer-p5{position: absolute;top:1350px;left: 1100px;}
+
+.bottom-footer-p{font-size: 12px;}
